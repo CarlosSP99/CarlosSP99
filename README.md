@@ -10,7 +10,7 @@
 
   ⚡I am currently learning Android, iOS, and Python!
 
-  ⚡ I have a PhD in Chemistry, but I am in love with programming!
+  ⚡ I have a degree in Chemistry, but I am in love with programming!
 
   ⚡ I enjoy learning new technologies and tools.
 
